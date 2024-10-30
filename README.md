@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Théo and I'm currently looking for a 4-month internship abroad (not in France) for my engineering course in "Automotive/Control system and embedded systems".
-     I'd love to find an internship in VHDL or MatLab/Simulink
+     I'd love to find an internship in VHDL or MatLab/Simulink.
+     Please check my "ENSISA_coding" repository to discover a part of my work. I will upload more real soon.
 - 👀 I’m interested in learning all kind of things. I'm eager to understand how things work around me, in theory and in practice.
 - 🌱 I’m currently learning C++ and VHDL, as well as MatLab/Simulink
 - 📫 How to reach me : contact me on LinkedIn
